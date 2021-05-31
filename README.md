@@ -33,7 +33,7 @@ Resoluções de exercícios e material escrito pelo Grupo de Estudos para Progra
 
 ## Aula 2 - Vetores e Matrizes
 
-### [Link para a Aula](https://www.youtube.com/watch?v=eREmz9t5j7E&list=PLi3e1LBPZa35_L2WaFaWm2xATle984opw&index=3)
+-  [Link para a Aula](https://www.youtube.com/watch?v=eREmz9t5j7E&list=PLi3e1LBPZa35_L2WaFaWm2xATle984opw&index=3)
 
 ### Exercícios
 - [Botas Trocadas](https://neps.academy/br/exercise/19)
@@ -46,7 +46,7 @@ Resoluções de exercícios e material escrito pelo Grupo de Estudos para Progra
 
 ## Aula 3 - Strings, Funções e Recursão
 
-### [Link para a Aula](https://www.youtube.com/watch?v=sIuF_YK0zCk&list=PLi3e1LBPZa35_L2WaFaWm2xATle984opw&index=4)
+-  [Link para a Aula](https://www.youtube.com/watch?v=sIuF_YK0zCk&list=PLi3e1LBPZa35_L2WaFaWm2xATle984opw&index=4)
 
 ### Exercícios
 - [Huaauhahhuahau](https://neps.academy/br/exercise/118)
