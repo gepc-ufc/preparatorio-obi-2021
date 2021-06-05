@@ -44,6 +44,8 @@ Resoluções de exercícios e material escrito pelo Grupo de Estudos para Progra
 - [Torre](https://neps.academy/br/exercise/45)
 - [A Praça de Grande Rio](https://neps.academy/br/exercise/1246)
 
+### [Resolução](/AULA-02)
+
 ## Aula 3 - Strings, Funções e Recursão
 
 -  [Link para a Aula](https://www.youtube.com/watch?v=sIuF_YK0zCk&list=PLi3e1LBPZa35_L2WaFaWm2xATle984opw&index=4)
@@ -55,3 +57,4 @@ Resoluções de exercícios e material escrito pelo Grupo de Estudos para Progra
 - [Fibonacci](https://neps.academy/br/exercise/257)
 - [Fissura Perigosa](https://neps.academy/br/exercise/825)
 
+### [Resolução](/AULA-03)
